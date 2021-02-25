@@ -1,6 +1,6 @@
 {
   "name": "superklokdotcom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Superklok Labs (English)",
   "main": "app.js",
   "scripts": {
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "https://github.com/Superklok/SuperklokDotCom.git"
   },
-  "author": "Trev Morin <trev@superklok.com> (https://trevmorin.com)",
+  "author": "Trev Morin <trev@superklok.com> (http://trevmorin.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Superklok/SuperklokDotCom/issues"
   },
-  "homepage": "https://superklok.com",
+  "homepage": "http://superklok.com",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
