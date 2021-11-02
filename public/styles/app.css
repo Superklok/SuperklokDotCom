@@ -2,7 +2,7 @@ body {
 	color: #191970;
 	background-attachment: fixed;
 	background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),
-	url('https://res.cloudinary.com/superkloklabs/image/upload/v1609612131/SuperklokDotCom/superklokBG_je3xfg.jpg');
+	url('../assets/img/superklokBG.jpg');
 	background-size: cover;
 	background-position: center;
 	z-index: 0;
