@@ -5,6 +5,7 @@ body {
 	url('../assets/img/superklokBG.jpg');
 	background-size: cover;
 	background-position: center;
+	background-color: #06617E;
 	z-index: 0;
 }
 
