@@ -1,6 +1,6 @@
 {
   "name": "superklokdotcom",
-  "version": "1.9.3",
+  "version": "1.10.0",
   "description": "Superklok Labs (English)",
   "main": "app.js",
   "scripts": {
