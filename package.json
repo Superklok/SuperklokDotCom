@@ -1,6 +1,6 @@
 {
   "name": "superklokdotcom",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "description": "Superklok Labs (English)",
   "main": "app.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Superklok/SuperklokDotCom/issues"
   },
-  "homepage": "http://superklok.com",
+  "homepage": "http://superkloklabs.com",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
