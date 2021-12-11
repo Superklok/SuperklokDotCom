@@ -1,10 +1,10 @@
-FROM node:17.0.1 as base
+FROM node:17.2.0 as base
 LABEL org.opencontainers.image.vendor="Superklok Labs"
 LABEL org.opencontainers.image.authors="trev@superklok.com"
 LABEL org.opencontainers.image.title="SuperklokDotCom"
 LABEL org.opencontainers.image.description="Superklok Labs (English)"
-LABEL org.opencontainers.image.version="1.11.1"
-LABEL org.opencontainers.image.created="2021-12-07"
+LABEL org.opencontainers.image.version="1.11.3"
+LABEL org.opencontainers.image.created="2021-12-11"
 LABEL org.opencontainers.image.url="https://hub.docker.com/r/superklok/superklokdotcom"
 LABEL org.opencontainers.image.source="https://github.com/Superklok/SuperklokDotCom"
 LABEL org.opencontainers.image.licenses="ISC"
