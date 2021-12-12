@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: superklokdotcom:1.11.3
+    image: superklok/superklokdotcom:1.11.4
     build: 
       context: .
     ports:
